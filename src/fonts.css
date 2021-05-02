@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'JurassicPark-BL48';
+    src: local('JurassicPark-BL48'), url(./fonts/JurassicPark-BL48.ttf) format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'TribecaRegular';
+    src: local('TribecaRegular'), url(./fonts/TribecaRegular.ttf) format('truetype');
+  }
