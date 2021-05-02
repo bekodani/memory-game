@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.0a41028c.chunk.css",
+    "main.js": "/memory-game/static/js/main.b42b729a.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.b42b729a.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.ff57d7b7.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.ff57d7b7.js.map",
+    "static/js/2.f1498fe1.chunk.js": "/memory-game/static/js/2.f1498fe1.chunk.js",
+    "static/js/2.f1498fe1.chunk.js.map": "/memory-game/static/js/2.f1498fe1.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/main.0a41028c.chunk.css.map": "/memory-game/static/css/main.0a41028c.chunk.css.map",
+    "static/js/2.f1498fe1.chunk.js.LICENSE.txt": "/memory-game/static/js/2.f1498fe1.chunk.js.LICENSE.txt",
+    "static/media/Gallimimus.495d7a6b.png": "/memory-game/static/media/Gallimimus.495d7a6b.png",
+    "static/media/index.css": "/memory-game/static/media/TribecaRegular.a9591b02.ttf",
+    "static/media/Terry.8dfaa6ba.png": "/memory-game/static/media/Terry.8dfaa6ba.png",
+    "static/media/anky.02515543.png": "/memory-game/static/media/anky.02515543.png",
+    "static/media/brachiosaurus.18ec74ec.png": "/memory-game/static/media/brachiosaurus.18ec74ec.png",
+    "static/media/comps.d07deb49.png": "/memory-game/static/media/comps.d07deb49.png",
+    "static/media/pachy.ee7e4fc0.png": "/memory-game/static/media/pachy.ee7e4fc0.png",
+    "static/media/para.30480e11.png": "/memory-game/static/media/para.30480e11.png",
+    "static/media/rex.5817b04b.png": "/memory-game/static/media/rex.5817b04b.png",
+    "static/media/spino.ab9f679d.png": "/memory-game/static/media/spino.ab9f679d.png",
+    "static/media/stego.258f7ea1.png": "/memory-game/static/media/stego.258f7ea1.png",
+    "static/media/trice.fede5e67.png": "/memory-game/static/media/trice.fede5e67.png",
+    "static/media/velociraptor.d0dd9fb5.png": "/memory-game/static/media/velociraptor.d0dd9fb5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff57d7b7.js",
+    "static/js/2.f1498fe1.chunk.js",
+    "static/css/main.0a41028c.chunk.css",
+    "static/js/main.b42b729a.chunk.js"
+  ]
+}
